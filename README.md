@@ -1,0 +1,2 @@
+# wanewsnode-express_mysql_test-1
+链接wanewsnode数据库显示出了频道channel

@@ -1,10 +1,10 @@
-// MySQLÊı¾İ¿âÁª½ÓÅäÖÃ
+// MySQLæ•°æ®åº“è”æ¥é…ç½®
 module.exports = {
     mysql: {
         host: '10.8.100.2',
         user: 'kuaibao',
-        password: 'kuaibao@2015',
-        database:'kuaibao', // Ç°Ãæ½¨µÄmyclass±íÎ»ÓÚÕâ¸öÊı¾İ¿âÖĞ
+        password: '',
+        database:'kuaibao', // å‰é¢å»ºçš„myclassè¡¨ä½äºè¿™ä¸ªæ•°æ®åº“ä¸­
         port: 3306
     }
 };
@@ -13,7 +13,7 @@ module.exports = {
 //        host: '127.0.0.0',
 //        user: 'root',
 //        password: '1q2w3e4r',
-//        database:'kuaibao', // Ç°Ãæ½¨µÄmyclass±íÎ»ÓÚÕâ¸öÊı¾İ¿âÖĞ
+//        database:'kuaibao', // å‰é¢å»ºçš„myclassè¡¨ä½äºè¿™ä¸ªæ•°æ®åº“ä¸­
 //        port: 3306
 //    }
 //};
